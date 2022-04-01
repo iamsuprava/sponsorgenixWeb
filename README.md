@@ -1,3 +1,3 @@
 # Sponsorgenix.Web
 Visit Website here:
-https://iamsuprava.github.io/Sponsorgenix.Web/
+https://iamsuprava.github.io/sponsorgenixWeb/
