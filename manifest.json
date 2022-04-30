@@ -3,9 +3,9 @@
     "short_name": "sponsorgenix",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#000000",
+    "theme_color": "#000000",
+    "description": "Sponsorgenix will provide you all the required services that you gonna need to bring your business online. Our Services includes: website and cross platform application building, UI/UX designing, brand assets designing, ads designing, content creation, social media handeling, digital marketing and  managing the backend of websites.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
